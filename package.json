@@ -1,0 +1,15 @@
+{
+  "name":        "cookpad_hot",
+  "version":     "1.0.0.0",
+  "author":      "myaumyau",
+  "keywords":    "cookpad",
+  "description": "cookpad 話題のレシピでAjaxにて取得されるHTMLを表示する",
+  "licenses":     [{
+    "type":       "MIT"
+  }],
+
+  "repository" : {
+    "type": "git",
+    "url":  "https://github.com/myaumyau/cookpad_hot"
+  },
+}
