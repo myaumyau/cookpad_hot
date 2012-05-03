@@ -56,7 +56,7 @@ http.createServer(function (request, response) {
                     line[++i] = tg;
                     line[++i] = '</body>';
                     line[++i] = '</html>';
-                    var html = decodeURIComponent(line.join('\n'));
+                    var html = line.join('\n');
                     //console.log(html);
                     response.write(html);
                     response.end();
