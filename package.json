@@ -1,6 +1,6 @@
 {
   "name":        "cookpad_hot",
-  "version":     "1.0.0",
+  "version":     "1.0.1",
   "author":      "myaumyau",
   "keywords":    "cookpad",
   "description": "cookpad 話題のレシピでAjaxにて取得されるHTMLを表示する",
